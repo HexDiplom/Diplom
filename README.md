@@ -33,3 +33,7 @@
 - [Fiber](https://gofiber.io/) - Веб-фреймворк для быстрой разработки REST API
 - [sqlc](https://sqlc.dev/) - Инструмент для создания типо-безопасного кода на Go из SQL запросов.
 - [PostgreSQL](https://www.postgresql.org/) - Объектно-реляционная СУБД
+
+## Полезное
+
+- [Гайд на GitHub](https://github.com/HexDiplom/.github/blob/9939980c227c8500a8f8e28161237c55589ac7c0/github.md)
